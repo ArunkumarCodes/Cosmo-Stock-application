@@ -1,0 +1,20 @@
+.singleresults{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 10px;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid black;
+    height: 120px;
+    width: 90%;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+}
+.singleresults > div{
+  text-align: left;
+  padding: 0px 0;
+  font-size: 15px;
+}
