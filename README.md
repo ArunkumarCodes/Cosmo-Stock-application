@@ -5,4 +5,4 @@ Designed the landing page by using
 1. React.js 
 2. CSS <br>
 Used react-router-dom to link the page, and Axios to fetch the API. <br>
-Utilize the npm pagckages, BrowserRouters, useParams, useEffect, and useStats
+Utilize the npm pagckages, BrowserRouters, useParams, useEffect, and useStats.
